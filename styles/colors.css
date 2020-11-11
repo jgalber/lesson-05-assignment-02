@@ -1,150 +1,150 @@
 body {
   color: #000;
-  }
+}
 
 .navigation {
   background-image: url("../images/zona-cero.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  }
+}
 
 .head-nav {
   color: #FEEBED;
   text-shadow: 8px 8px 16px #ff0000;
-  }
+}
 
 h1.head-nav:hover {
   color: black;
   transition: 1s ease;
-  }
+}
 
 nav {
   background-color: hsl(191, 81%, 12%);
-  }
+}
 
 a.social-nav {
   color: #eee0d3;
-  }
+}
 
 a.social-nav:hover {
   color: #f65161;
-  }
+}
 
 .main-container {
   background-color: hsla(165, 59%, 46%, 1);
-  }
+}
 
-.item-one > a {
-	color: #5A189A;
-  }
+.item-one>a {
+  color: #5A189A;
+}
 
-.item-one > a:hover {
-	color: rgb(238, 224, 211);
-  }
+.item-one>a:hover {
+  color: rgb(238, 224, 211);
+}
 
 h2 {
-	text-shadow: 1px 1px 2px #ff0000;
-  }
+  text-shadow: 1px 1px 2px #ff0000;
+}
 
 h2:hover {
   color: #ff0000;
   letter-spacing: .5em;
   transition: .33s ease-in-out;
-  }
+}
 
 h3 {
-	color: #fff;
+  color: #fff;
   text-shadow: 6px 1px 1px #ff0000;
-  }
+}
 
 i.fab.fa-html5 {
   color: #ffa033;
-  }
+}
 
 i.fab.fa-css3-alt {
   color: #2fb8da;
-  }
+}
 
 i.fab.fa-js-square {
   color: #ffdd00;
-  }
+}
 
 .about-me {
   background-color: #beeee2;
-  }
+}
 
 article.projects {
   background-image: url("../images/zona-cero.jpg");
   background-size: cover;
   background-position-y: bottom;
-  }
+}
 
 .projects li a {
   color: #fff;
   text-shadow: 4px 6px 6px #4838bc;
-  }
+}
 
 .projects li a:hover {
   color: #ff0000;
   transition: 2s ease;
-  }
+}
 
-div#dev-icons > a {
+div#dev-icons>a {
   color: #190e4f;
-  }
+}
 
-#dev-icons > a:hover {
+#dev-icons>a:hover {
   color: hsl(166, 56%, 84%);
-  }
+}
 
 #video {
   color: #5A189A;
-  }
+}
 
-#video > a:hover {
+#video>a:hover {
   color: #adffad;
-  }
+}
 
 .broadcast {
   background-color: hsl(165, 59%, 84%);
-  }
+}
 
 form {
   background-color: hsl(191, 81%, 12%);
   border: 2px solid hsl(354, 90%, 64%);
   border-radius: 20px;
-  }
+}
 
-form > h3 {
+form>h3 {
   color: #fff;
   text-shadow: 4px 2px 3px #ff0000;
-  }
+}
 
 footer {
   background-color: rgb(0, 20, 0);
-  }
+}
 
 h5 {
   color: #FFFFFF;
   text-shadow: 1px 1px 2px #ff0000;
-  }
+}
 
 label {
   color: #FFFFFF;
   text-shadow: 1px 1px 2px #ff0000;
   font-size: 1rem;
-  }
+}
 
-.nav-footer > a {
+.nav-footer>a {
   color: #eee0d3;
-  }
+}
 
-.nav-footer > a:hover {
+.nav-footer>a:hover {
   color: hsl(354, 90%, 56%);
-  }
+}
 
 button {
   background-color: rgb(0, 20, 0);
   color: #eee0d3;
-  }
+}
